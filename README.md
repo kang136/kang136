@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kang</h1>
+<h1 align="center" style="font-family: monospace; font-size: 24px; white-space: nowrap; overflow: hidden; border-right: 3px solid black; width: 14ch; animation: typing 3.5s steps(14, end), blink 0.75s step-end infinite;">Hi 👋, I'm Kang</h1>
 <h3 align="center">A passionate student frontend developer based in Arba Minch University, Ethiopia</h3>
 
 - 🌱 I’m currently learning **express.js**
